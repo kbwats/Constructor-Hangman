@@ -4,7 +4,7 @@ A hangman command-line game using constructor functions.
 
 ## Technologies Used
 
-<img src="https://github.com/kbwats/ReadMe/blob/master/node.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/npm.png"> 
+<img src="https://github.com/kbwats/ReadMe/blob/master/node.png">
 
 ## Installation
 

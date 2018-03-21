@@ -1,17 +1,24 @@
 {
-  "name": "hangman",
+  "name": "week11-hangman",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "creating a hangman game using node js",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^1.2.1",
+    "is-letter": "^1.1.1"
+  },
+  "devDependencies": {},
   "scripts": {
-    "start": "node index",
-    "watch": "nodemon index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "chalk": "^2.1.0",
-    "inquirer": "^3.3.0"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbwats/Constructor-Hangman.git"
+  },
+  "author": "Kristen Watson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kbwats/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/kbwats/Constructor-Hangman/blob/master/README.md"
 }
